@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Devanand K
 
-I'm a passionate technologist with over 11 years of experience crafting enterprise solutions that make a difference. My journey has taken me from coding full-stack applications to architecting cloud-native systems that power international banking operations for India's largest bank.
+I'm a passionate technologist with over 12 years of experience crafting enterprise solutions that make a difference. My journey has taken me from coding full-stack applications to architecting cloud-native systems that power international banking operations for India's largest bank.
 
 ## 💼 Professional Focus
 
@@ -60,12 +60,12 @@ I'm deeply fascinated by the evolving landscape of AI and actively explore vario
 
 - 🧠 Working with Ollama (Deepseek R1, Llama 3.x, Qwen 2.x, etc.), Gemini, ChatGPT, and Claude
 - 🔄 Experimenting with RAG pipelines in N8N
-- ✨ Exploring prompt engineering practices
-- 🛠️ Using AI tools like GitHub Copilot, OpenWeb UI, and Stable Diffusion etc.
+- ✨ Exploring prompt engineering best practices
+- 🛠️ Using AI tools like Cursor, WindSurf, OpenWeb UI, and Stable Diffusion etc.
 
 ## 🎓 Education & Certifications
 
-- 🎓 Bachelor of Engineering, Computer Science - Anna University Chennai
+- 🎓 Bachelor of Engineering, Computer Science - Anna University, Chennai
 - ☕ Oracle Certified Professional, Java SE 6 Programmer
 - 📊 Google Data Analytics Professional Certificate
 - 🐧 RedHat System Administration I & II (RH124 & RH134)
