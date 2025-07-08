@@ -41,7 +41,9 @@ I'm a passionate technologist with over 12 years of experience crafting enterpri
 ## 🏆 Key Projects
 
 ### Banking & Enterprise Systems
-- 🏦 **Loan Lifecycle Management System (LLMS)** - Led development of a cloud-native solution for SBI's international operations
+- 🛠️ **EoD Automation Suite** - Technial Architect and Lead Developer for enterprise-grade cloud native distributed agent based automation platform to manage critical EoD Operations for Core Banking, Treasury and Trade Finance applications for SBI's international banking operations.
+- 🏦 **Retail-Loan Lifecycle Management System (RLMS)** - Technical Lead for RLMS implementation for SBI's international operations
+- 🏦 **Loan Lifecycle Management System (LLMS)** - Technical Lead for LLMS implementation for SBI's international operations
 - 📊 **In-house Report Generation Engine** - Advanced reporting system with multi-format output and security features
 - 🔄 **Core Banking Aggregation** - Java-based agent deployed across 100+ servers for centralized report distribution
 
