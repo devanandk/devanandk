@@ -119,8 +119,9 @@ When I'm not coding or exploring new technologies:
 
 [![GitHub stats](https://img.shields.io/badge/-GitHub%20Stats-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanandkmenon)
 
+**Disclaimer**
 >
-> **Please note:** My GitHub activity may appear limited as most of my work involves private repositories and confidential projects in the banking sector where security is paramount. Much of my code contributions are within internal systems that require strict access controls and cannot be publicly shared.
+> My GitHub activity may appear limited as most of my work involves private repositories and confidential projects in the banking sector where security is paramount. Much of my code contributions are within internal systems that require strict access controls and cannot be publicly shared.
 >
 > The public repositories on my profile are small projects I work on to pass time once in a while when I'm not fully engaged with professional work commitments. They don't represent the scale and complexity of my enterprise-level development work.
 >
