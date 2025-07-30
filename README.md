@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Devanand K
 
-I'm a passionate technologist with over 12 years of experience crafting enterprise solutions that make a difference. My journey has taken me from coding full-stack applications to architecting cloud-native systems that power international banking operations for India's largest bank.
+I'm a passionate technologist with over 12+ years of experience crafting enterprise solutions that make a difference. My journey has taken me from coding full-stack applications to architecting cloud-native systems that power international banking operations for India's largest bank.
 
 ## 💼 Professional Focus
 
 - 🏦 Currently leading enterprise-scale technical initiatives at **State Bank of India**
-- 🚀 Architecting cloud-native solutions deployed on Kubernetes
+- 🚀 Architecting cloud-native solutions deployed on Kubernetes & SBI's private cloud
 - 🔄 Designing integration systems that connect complex banking operations
 - 📊 Building data-driven solutions that turn information into insights
 - 🔐 Implementing secure systems that comply with global banking regulations
@@ -64,11 +64,11 @@ I'm a passionate technologist with over 12 years of experience crafting enterpri
 - 🛠️ **EoD Automation Suite** - Technial Architect and Lead Developer for enterprise-grade cloud native distributed agent based automation platform to manage critical EoD Operations for Core Banking, Treasury and Trade Finance applications for SBI's international banking operations.
 - 🏦 **Retail-Loan Lifecycle Management System (RLMS)** - Technical Lead for RLMS implementation for SBI's international operations
 - 🏦 **Loan Lifecycle Management System (LLMS)** - Technical Lead for LLMS implementation for SBI's international operations
-- 📊 **In-house Report Generation Engine** - Advanced reporting system with multi-format output and security features
+- 📊 **In-house Report Generation Engine** - Single-handedly developed an advanced reporting system with multi-format output and security features
 - 🔄 **Core Banking Aggregation** - Java-based agent deployed across 100+ servers for centralized report distribution
 
 ### FinTech & Billing Solutions
-- 💰 **MiRevenue Strategic Billing for Barclays Bank UK** - Implemented Zafin's PPLM platform with specialized Jasper Reports design and Java development
+- 💰 **MiRevenue Strategic Billing for Barclays Bank UK** - Implementation of Zafin's Product Pricing & Lifecycle Management (PPLM) platform with specialized Jasper Reports design and Java backend development
 
 ### Integration & Automation Projects
 - 🔄 **SKB Europe-Amazon EDI Connection** - Automated order processing and invoicing system using ANSI X12 standards
