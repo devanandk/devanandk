@@ -62,10 +62,11 @@ I'm a passionate technologist with over 12+ years of experience crafting enterpr
 
 ### Banking & Enterprise Systems
 - 🛠️ **EoD Automation Suite** - Technial Architect and Lead Developer for enterprise-grade cloud native distributed agent based automation platform to manage critical EoD Operations for Core Banking, Treasury and Trade Finance applications for SBI's international banking operations.
-- 🏦 **Retail-Loan Lifecycle Management System (RLMS)** - Technical Lead for RLMS implementation for SBI's international operations
-- 🏦 **Loan Lifecycle Management System (LLMS)** - Technical Lead for LLMS implementation for SBI's international operations
+- 💰 **Retail-Loan Lifecycle Management System (RLMS)** - Technical Lead for RLMS implementation for SBI's international operations
+- 🏦 **Loan Lifecycle Management System (LLMS)** - Technical Lead for LLMS implementation for SBI's international operations - corporate loan lifecycle management
 - 📊 **In-house Report Generation Engine** - Single-handedly developed an advanced reporting system with multi-format output and security features
 - 🔄 **Core Banking Aggregation** - Java-based agent deployed across 100+ servers for centralized report distribution
+- 🤝 **Enterprise Change Management Process** - Developed a comprehensive change management platform for SBI's IT Foreign Office, streamlining the SDLC review and approval process for over 10 critical banking applications (core-banking, treasury, trade finance, mobile, internet banking). This platform drives daily operations for development, support, maintenance, and implementation teams, ensuring compliance across 24 international regulatory environments
 
 ### FinTech & Billing Solutions
 - 💰 **MiRevenue Strategic Billing for Barclays Bank UK** - Implementation of Zafin's Product Pricing & Lifecycle Management (PPLM) platform with specialized Jasper Reports design and Java backend development
