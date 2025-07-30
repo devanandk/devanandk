@@ -124,7 +124,7 @@ When I'm not coding or exploring new technologies:
 >
 > My GitHub activity may appear limited as most of my work involves private repositories and confidential projects in the banking sector where security is paramount. Much of my code contributions are within internal systems that require strict access controls and cannot be publicly shared.
 >
-> The public repositories on my profile are small projects I work on to pass time once in a while when I'm not fully engaged with professional work commitments. They don't represent the scale and complexity of my enterprise-level development work.
+> The public repositories on my profile are all small projects I play around with to pass time once in a while when I'm not fully engaged with professional work commitments. They don't represent the scale and complexity of my enterprise-level development work experience.
 >
-
+---
 *"Building scalable solutions that solve real business problems"*
