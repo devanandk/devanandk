@@ -65,7 +65,7 @@ I'm a passionate technologist with over 12+ years of experience crafting enterpr
 - 💰 **Retail-Loan Lifecycle Management System (RLMS)** - Technical Lead for RLMS implementation for SBI's international operations
 - 🏦 **Loan Lifecycle Management System (LLMS)** - Technical Lead for LLMS implementation for SBI's international operations - corporate loan lifecycle management
 - 📊 **In-house Report Generation Engine** - Single-handedly developed an advanced reporting system with multi-format output and security features
-- 🔄 **Core Banking Aggregation** - Java-based agent deployed across 100+ servers for centralized report distribution
+- 🔄 Enterprise Report Distribution System (ReDiS) - As a lead developer, I designed and implemented a critical Java-based agent, deployed across 100+ core banking and treasury servers. This agent is central to the ReDiS platform, which has efficiently distributed over 6 million reports (2,000+ daily) to users in 24 countries with robust access control & resilient delivery by intelligently handling network disruptions and API downtime
 - 🤝 **Enterprise Change Management Process** - Developed a comprehensive change management platform for SBI's IT Foreign Office, streamlining the SDLC review and approval process for over 10 critical banking applications (core-banking, treasury, trade finance, mobile, internet banking). This platform drives daily operations for development, support, maintenance, and implementation teams, ensuring compliance across 24 international regulatory environments
 
 ### FinTech & Billing Solutions
